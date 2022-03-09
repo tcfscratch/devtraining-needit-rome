@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="NeedIt Experience Config">c355fddd1b82301068dd5464604bcb92</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="List">08e25bd6db020110757d89584b961949</macroponent>
+        <macroponent_config/>
+        <name>testlist</name>
+        <order>100</order>
+        <parent_macroponent display_value="UXR Blank AppShell">fee17a0f5b130010b913cbd59b81c7c2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="this is a page">0c213974db020110757d89584b96195d</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 20:56:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c4e25bd6db020110757d89584b96194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testlist</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_c4e25bd6db020110757d89584b96194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 20:56:18</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=c4e25bd6db020110757d89584b96194d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>cc500c99dbfa4c100b9d21c4059619b9</instance_id>
+        <instance_name>dev99364</instance_name>
+        <name>sys_ux_screen_c4e25bd6db020110757d89584b96194d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="NeedIt Experience Config">c355fddd1b82301068dd5464604bcb92</app_config><description/><event_mappings/><macroponent display_value="List">08e25bd6db020110757d89584b961949</macroponent><macroponent_config/><name>testlist</name><order>100</order><parent_macroponent display_value="UXR Blank AppShell">fee17a0f5b130010b913cbd59b81c7c2</parent_macroponent><required_translations>[ ]</required_translations><screen_condition/><screen_type display_value="this is a page">0c213974db020110757d89584b96195d</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-07 20:56:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c4e25bd6db020110757d89584b96194d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>testlist</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_c4e25bd6db020110757d89584b96194d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-07 20:56:18</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=c4e25bd6db020110757d89584b96194d"/></record_update>]]></payload>
+        <payload_hash>-342349800</payload_hash>
+        <record_name>testlist</record_name>
+        <reverted_from/>
+        <source>80718b2bdb250110757d89584b96195c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 20:56:18</sys_created_on>
+        <sys_id>80e29b1adb020110757d89584b9619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f662b25f80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 20:56:18</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>44e25bd60f020110a1119aa7ea562d50</update_guid>
+        <update_guid_history>44e25bd60f020110a1119aa7ea562d50:-342349800</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 20:58:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>25c7cc39d2f044a09b938c14d277e900</sys_id>
+        <sys_metadata>c4e25bd6db020110757d89584b96194d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testlist</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_c4e25bd6db020110757d89584b96194d</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_c4e25bd6db020110757d89584b96194d">80e29b1adb020110757d89584b9619e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 20:58:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
